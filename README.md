@@ -9,7 +9,7 @@ Artist and Graphic Designer.
 
 💻 Desktop: Java, python.
 
-📝 Currently learning Machine Learning
+📝 Currently learning Machine Learning.
 
  <img src="https://github-readme-stats.vercel.app/api?username=muhhammdsallam">
  <!---<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhhammdsallam&layout=compact">--->
