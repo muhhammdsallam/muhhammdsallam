@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sallam</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 * 🔭 I’m currently working as **Big Data Engineer**
 * 📚 I'm constantly exploring **new techniques and advancements in Backend.**
