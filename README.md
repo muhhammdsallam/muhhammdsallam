@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 * 🔭 I’m currently working as **Big Data Engineer**
-* 📚 I'm constantly exploring **new techniques and advancements in Backend.**
+* 📚 I'm constantly exploring **new techniques and advancements in Backend Engineering.**
 * 🎓 I have a Bachelor's degree in **Computer Engineering**
 *  :technologist: I have 1+ years of professional experience
 * 📫 Contact me at **m.sallam2622000@gmail.com**
