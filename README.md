@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sallam</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-- 🔭 I’m currently working as **Big Data Engineer**
-
-- 📚 I'm constantly exploring **new techniques and advancements in Backend.**
-
-- 📫 Contact me on **m.sallam2622000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13dNZF-b0z8ojCxEYOrEBYZUGBYvJwdUa/view?usp=sharing](https://drive.google.com/file/d/13dNZF-b0z8ojCxEYOrEBYZUGBYvJwdUa/view?usp=sharing)
+* 🔭 I’m currently working as **Big Data Engineer**
+* 📚 I'm constantly exploring **new techniques and advancements in Backend.**
+* 🎓 I have a Bachelor's degree in **Computer Engineering**
+*  :technologist: I have 1+ years of professional experience
+* 📫 Contact me at **m.sallam2622000@gmail.com**
+* 📄 Know more about my experiences from my <a href="https://drive.google.com/file/d/13dNZF-b0z8ojCxEYOrEBYZUGBYvJwdUa/view?usp=sharing](https://drive.google.com/file/d/13dNZF-b0z8ojCxEYOrEBYZUGBYvJwdUa/view?usp=sharing)">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
