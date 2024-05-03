@@ -7,7 +7,6 @@
 * 🎓 I have a Bachelor's degree in **Computer Engineering**
 *  :technologist: I have 1+ years of professional experience
 * 📫 Contact me at **m.sallam2622000@gmail.com**
-* 📄 Know more about my experiences from my <a href="https://drive.google.com/file/d/13dNZF-b0z8ojCxEYOrEBYZUGBYvJwdUa/view?usp=sharing](https://drive.google.com/file/d/13dNZF-b0z8ojCxEYOrEBYZUGBYvJwdUa/view?usp=sharing)">Resume</a>
 
 ## 📫 Connect with me
 <p align="left">
