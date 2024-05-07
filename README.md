@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sallam</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
+<p align="center">
+<a href="https://linkedin.com/in/muhhammdsallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhhammdsallam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/muhhammdsallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhhammdsallam" height="30" width="40" /></a>
+</p>
 
 ## 📖 About me
 * 🔭 I’m currently working as **Big Data Engineer**
@@ -7,12 +11,6 @@
 * 🎓 I have a Bachelor's degree in **Computer Engineering**
 *  :technologist: I have 1+ years of professional experience
 * 📫 Contact me at **m.sallam2622000@gmail.com**
-
-## 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/muhhammdsallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhhammdsallam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhhammdsallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhhammdsallam" height="30" width="40" /></a>
-</p>
 
 ## 👨‍💻 Languages and Tools
 
